@@ -10,7 +10,7 @@ public class JavaIfElse{
 		// Get n
 		int n = in.nextInt();
 		
-		// Check if n is
+		// Check if n is even
 		if(n % 2 == 0){
 			
 			// Check if n is 2 - 5
